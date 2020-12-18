@@ -20,7 +20,7 @@ This site is for my portfolio.
 
 ### KNOW ME
 
-![Zachary Burns](images/)
+![Zachary Burns](images/IMG_0240.PNG)
 
  am Zachary and I Attend Durham College. I enjoy martial arts and other sports like hockey. Currently, I spend the most time on my computer; hoping to get creative as possible as well as learn something new every once and a while.
 
