@@ -2,12 +2,12 @@
 
 This site is for my portfolio.
 
-### Markdown
+### KNOW ME
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Othniel Adelore](photo1-s.jpg)
 
-```markdown
-Syntax highlighted code block
+I am Othniel Adelore, and I'm an Interactive Media Design student at Durham College.
+I'm 17 years old and I like to play video games or make beats in my spare time.
 
 # Header 1
 ## Header 2
