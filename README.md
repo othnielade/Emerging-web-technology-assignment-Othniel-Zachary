@@ -4,7 +4,7 @@ This site is for my portfolio.
 
 #### KNOW ME
 
-![Othniel Adelore](imagebank/photo1/photo1-s.jpg)
+![Othniel Adelore](photo1-s.jpg)
 
 I am Othniel Adelore, and I'm an Interactive Media Design student at Durham College.
 I'm 17 years old and I like to play video games or make beats in my spare time.
