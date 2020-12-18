@@ -9,18 +9,6 @@ This site is for my portfolio.
 I am Othniel Adelore, and I'm an Interactive Media Design student at Durham College.
 I'm 17 years old and I like to play video games or make beats in my spare time.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 ```
 
