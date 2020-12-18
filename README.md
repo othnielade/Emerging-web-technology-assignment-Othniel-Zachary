@@ -2,7 +2,7 @@
 
 This site is for my portfolio.
 
-#### MY INFO
+#### KNOW ME
 
 ![Othniel Adelore](imagebank/photo1/photo1-m.jpg)
 
